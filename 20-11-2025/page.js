@@ -16,26 +16,16 @@ async function find() {
     await mongoose.connect(MONGO_URL)
     console.log('find Connected to the DB')
 
-    const result = await StudentModel.aggregate([
-      {
-        $match: {
-          age: {
-            $gte: 45
-          }
-        }
-      },
-      {
-        $sort: {
-          age: -1
-        }
-      },
-      {
-        $skip: 3
-      },
-      {
-        $limit: 1
-      },
-    ])
+    const result = await StudentModel.find({
+      age: {
+        $gte: 45
+      }
+    })
+    .skip(0)
+    .limit(1)
+    .sort({
+      age: -1
+    })
     console.log(result)
   } catch (error) {
     console.error(error)
