@@ -16,10 +16,10 @@ async function main() {
   const result = await collection.insertOne({
     name: "Joana",
     age: 24,
-    skills: ["figma", "photoshop", "powerpoint"]
+    skills: ["figma", "photoshop", "power point"],
+    password: "",
   });
 
-  
   console.log('result', result)
 
   console.log("Disconneting from the database")
@@ -28,3 +28,11 @@ async function main() {
 }
 
 main()
+
+
+CRUD 
+
+Create
+Read
+Update
+Delete

@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "seed:data": "node scripts/seed-students.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongoose": "^8.20.0"
+  }
+}
