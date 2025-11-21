@@ -3,6 +3,7 @@
     "_id": "f328dca0-35da-45bf-a214-39063ee44f1e",
     "name": "Zeca Gomes",
     "email": "ZecaGomes@domain.com",
+    "password": "password123",
     "age": 40,
     "skills": [
       "Azure",
@@ -25,6 +26,7 @@
     "_id": "f6d5fa56-58c3-4b92-8e80-81ceefb470fb",
     "name": "Felipe Barbosa",
     "email": "FelipeBarbosa@domain.com",
+    "password": "password123",
     "age": 46,
     "skills": [
       "Microservices",
@@ -45,6 +47,7 @@
     "_id": "86ada015-c1dd-4245-99f0-240fb301f557",
     "name": "Olivia Pereira",
     "email": "OliviaPereira@domain.com",
+    "password": "password123",
     "age": 23,
     "skills": [
       "JavaScript",
@@ -68,6 +71,7 @@
     "_id": "30bed55b-3e2f-4620-a951-9eb5b553cfab",
     "name": "Gabriela Silva",
     "email": "GabrielaSilva@domain.com",
+    "password": "password123",
     "age": 27,
     "skills": [
       "MySQL",
@@ -91,6 +95,7 @@
     "_id": "26dfbf75-814f-48bf-8b0a-1d7c208938b9",
     "name": "Lucas Carvalho",
     "email": "LucasCarvalho@domain.com",
+    "password": "password123",
     "age": 21,
     "skills": [
       "Kubernetes",
@@ -111,6 +116,7 @@
     "_id": "343bb587-3bf0-4954-a406-2b39eada3a3c",
     "name": "Eduarda Souza",
     "email": "EduardaSouza@domain.com",
+    "password": "password123",
     "age": 34,
     "skills": [
       "AWS",
@@ -133,6 +139,7 @@
     "_id": "4c948a92-de42-47f0-bad4-eb32222c622e",
     "name": "Diana Costa",
     "email": "DianaCosta@domain.com",
+    "password": "password123",
     "age": 38,
     "skills": [
       "Git",
@@ -156,6 +163,7 @@
     "_id": "1b2634e3-f7a3-407a-8320-d15e08308ffd",
     "name": "Yasmin Carvalho",
     "email": "YasminCarvalho@domain.com",
+    "password": "password123",
     "age": 36,
     "skills": [
       "Node.js",
@@ -178,6 +186,7 @@
     "_id": "5a459208-f937-47fd-93b3-5629329d5465",
     "name": "Karina Silva",
     "email": "KarinaSilva@domain.com",
+    "password": "password123",
     "age": 35,
     "skills": [
       "Kubernetes",
@@ -198,6 +207,7 @@
     "_id": "393036a3-4332-4c1f-bde9-f01446cbab8d",
     "name": "Jo\u00e3o Rodrigues",
     "email": "JouRodrigues@domain.com",
+    "password": "password123",
     "age": 27,
     "skills": [
       "Next.js",
@@ -221,6 +231,7 @@
     "_id": "da64f5bf-96bc-4319-a8a9-d7d928f7b661",
     "name": "Lucas Gomes",
     "email": "LucasGomes@domain.com",
+    "password": "password123",
     "age": 28,
     "skills": [
       "GCP",
@@ -240,6 +251,7 @@
     "_id": "a5ccdc55-bb78-426a-8f4c-dd9966b3b240",
     "name": "Lucas Pereira",
     "email": "LucasPereira@domain.com",
+    "password": "password123",
     "age": 39,
     "skills": [
       "REST APIs",
@@ -263,6 +275,7 @@
     "_id": "a478a0b1-d4b0-4ef1-b869-e2b67dc0277d",
     "name": "Yasmin Almeida",
     "email": "YasminAlmeida@domain.com",
+    "password": "password123",
     "age": 24,
     "skills": [
       "Tailwind CSS",
@@ -286,6 +299,7 @@
     "_id": "61869104-ed0e-4df5-94b5-44065785d213",
     "name": "Paulo Almeida",
     "email": "PauloAlmeida@domain.com",
+    "password": "password123",
     "age": 18,
     "skills": [
       "React Native",
@@ -306,6 +320,7 @@
     "_id": "4a919c39-9e10-4e1b-9cc3-e120a6b3c79b",
     "name": "Felipe Rodrigues",
     "email": "FelipeRodrigues@domain.com",
+    "password": "password123",
     "age": 36,
     "skills": [
       "TypeScript",
@@ -326,6 +341,7 @@
     "_id": "b59cce8a-b20d-4cfe-af16-d3e340ec6f60",
     "name": "Karina Santos",
     "email": "KarinaSantos@domain.com",
+    "password": "password123",
     "age": 48,
     "skills": [
       "Tailwind CSS",
@@ -346,6 +362,7 @@
     "_id": "567f1591-84ff-4a81-9718-8d16640cf915",
     "name": "Sofia Silva",
     "email": "SofiaSilva@domain.com",
+    "password": "password123",
     "age": 29,
     "skills": [
       "REST APIs",
@@ -366,6 +383,7 @@
     "_id": "95bccd13-a993-437d-9b76-03388dbf1f36",
     "name": "Isabela Pereira",
     "email": "IsabelaPereira@domain.com",
+    "password": "password123",
     "age": 35,
     "skills": [
       "Microservices",
@@ -388,6 +406,7 @@
     "_id": "3783ff2e-80c4-43fa-ae20-e8163af3db10",
     "name": "Gabriela Almeida",
     "email": "GabrielaAlmeida@domain.com",
+    "password": "password123",
     "age": 49,
     "skills": [
       "GraphQL",
@@ -407,6 +426,7 @@
     "_id": "3e243d1a-b443-4518-8415-adde1351b3c1",
     "name": "Qu\u00e9sia Almeida",
     "email": "Quu00e9siaAlmeida@domain.com",
+    "password": "password123",
     "age": 24,
     "skills": [
       "HTML",
@@ -428,6 +448,7 @@
     "_id": "01452773-b8b0-42cc-8058-522c169d9a61",
     "name": "Karina Santos",
     "email": "KarinaSantos@domain.com",
+    "password": "password123",
     "age": 33,
     "skills": [
       "Microservices",
@@ -447,6 +468,7 @@
     "_id": "130e0c3b-19cf-4b72-bc73-a23affd1f84a",
     "name": "Vitor Rodrigues",
     "email": "VitorRodrigues@domain.com",
+    "password": "password123",
     "age": 37,
     "skills": [
       "React",
@@ -470,6 +492,7 @@
     "_id": "034a072e-818c-433b-a3d4-f69601e8cf1a",
     "name": "Sofia Barbosa",
     "email": "SofiaBarbosa@domain.com",
+    "password": "password123",
     "age": 43,
     "skills": [
       "SASS",
@@ -491,6 +514,7 @@
     "_id": "3a9ca0a5-ccb1-47b5-be45-6df7097db518",
     "name": "Rafael Barbosa",
     "email": "RafaelBarbosa@domain.com",
+    "password": "password123",
     "age": 26,
     "skills": [
       "Node.js",
@@ -512,6 +536,7 @@
     "_id": "a5b96816-92c6-44dc-849f-7d6a8a669d09",
     "name": "Diana Carvalho",
     "email": "DianaCarvalho@domain.com",
+    "password": "password123",
     "age": 27,
     "skills": [
       "GraphQL",
@@ -533,6 +558,7 @@
     "_id": "be4ea87b-0121-4c47-9838-6389535c024a",
     "name": "Diego Santos",
     "email": "DiegoSantos@domain.com",
+    "password": "password123",
     "age": 48,
     "skills": [
       "GCP",
@@ -553,6 +579,7 @@
     "_id": "30f1fb3e-8e7a-4571-a934-088eb3cd475b",
     "name": "Alex Ferreira",
     "email": "AlexFerreira@domain.com",
+    "password": "password123",
     "age": 29,
     "skills": [
       "CI/CD",
@@ -574,6 +601,7 @@
     "_id": "4795289e-b581-487c-bcf2-023b044ec510",
     "name": "Carla Pereira",
     "email": "CarlaPereira@domain.com",
+    "password": "password123",
     "age": 41,
     "skills": [
       "Docker",
@@ -595,6 +623,7 @@
     "_id": "09c9436e-692b-4513-ac2d-37d9b96edfd7",
     "name": "Diego Teixeira",
     "email": "DiegoTeixeira@domain.com",
+    "password": "password123",
     "age": 28,
     "skills": [
       "Git",
@@ -617,6 +646,7 @@
     "_id": "beb56997-bbcf-4c05-af9e-7943b0157a51",
     "name": "Zeca Ferreira",
     "email": "ZecaFerreira@domain.com",
+    "password": "password123",
     "age": 41,
     "skills": [
       "GraphQL",
@@ -639,6 +669,7 @@
     "_id": "7e2764af-423b-4430-b0ce-5c9d34f93570",
     "name": "Diana Barbosa",
     "email": "DianaBarbosa@domain.com",
+    "password": "password123",
     "age": 35,
     "skills": [
       "NestJS",
@@ -662,6 +693,7 @@
     "_id": "6795922a-b699-4f0d-98f7-23b378362200",
     "name": "Yasmin Silva",
     "email": "YasminSilva@domain.com",
+    "password": "password123",
     "age": 25,
     "skills": [
       "Redis",
@@ -683,6 +715,7 @@
     "_id": "97f90a3d-2314-4d52-85b6-18564e25bcc3",
     "name": "Hugo Pereira",
     "email": "HugoPereira@domain.com",
+    "password": "password123",
     "age": 40,
     "skills": [
       "Tailwind CSS",
@@ -706,6 +739,7 @@
     "_id": "20753190-990e-4520-b0a6-19f6f2d475f2",
     "name": "Carla Teixeira",
     "email": "CarlaTeixeira@domain.com",
+    "password": "password123",
     "age": 24,
     "skills": [
       "Cypress",
@@ -727,6 +761,7 @@
     "_id": "a8f50c4c-1c2b-44e5-bbbf-d1eed13e4293",
     "name": "Zeca Barbosa",
     "email": "ZecaBarbosa@domain.com",
+    "password": "password123",
     "age": 34,
     "skills": [
       "Kubernetes",
@@ -749,6 +784,7 @@
     "_id": "7602b691-88f9-457b-aade-1b4d5ea8e8aa",
     "name": "Jo\u00e3o Mendes",
     "email": "Jou00e3oMendes@domain.com",
+    "password": "password123",
     "age": 42,
     "skills": [
       "Node.js",
@@ -770,6 +806,7 @@
     "_id": "71d291e2-04d8-4374-8027-bf05448f8187",
     "name": "Sofia Santos",
     "email": "SofiaSantos@domain.com",
+    "password": "password123",
     "age": 18,
     "skills": [
       "JavaScript",
@@ -792,6 +829,7 @@
     "_id": "84080a34-3f6a-4843-8f43-da4dcd8dc992",
     "name": "Bruno Mendes",
     "email": "BrunoMendes@domain.com",
+    "password": "password123",
     "age": 50,
     "skills": [
       "WebSockets",
@@ -815,6 +853,7 @@
     "_id": "bd2cea2a-29ec-447b-aefb-c4f22cec4607",
     "name": "Eduarda Souza",
     "email": "EduardaSouza@domain.com",
+    "password": "password123",
     "age": 27,
     "skills": [
       "Git",
@@ -836,6 +875,7 @@
     "_id": "eb72efab-c024-4c8b-aafc-55bbe03884d1",
     "name": "Paulo Oliveira",
     "email": "PauloOliveira@domain.com",
+    "password": "password123",
     "age": 37,
     "skills": [
       "Node.js",
@@ -858,6 +898,7 @@
     "_id": "ea25b3de-49d5-48eb-9b09-01cae221f742",
     "name": "Karina Teixeira",
     "email": "KarinaTeixeira@domain.com",
+    "password": "password123",
     "age": 34,
     "skills": [
       "NestJS",
@@ -880,6 +921,7 @@
     "_id": "e11f6c3e-94dc-4f8a-be75-293f970b191e",
     "name": "Karina Souza",
     "email": "KarinaSouza@domain.com",
+    "password": "password123",
     "age": 44,
     "skills": [
       "GCP",
@@ -902,6 +944,7 @@
     "_id": "2fde6536-ad04-4e88-ba33-f2401d51c5f1",
     "name": "Rafael Rodrigues",
     "email": "RafaelRodrigues@domain.com",
+    "password": "password123",
     "age": 38,
     "skills": [
       "CI/CD",
@@ -923,6 +966,7 @@
     "_id": "5e0e07ba-291b-4e96-b2da-27862e6b8ee1",
     "name": "Hugo Ferreira",
     "email": "HugoFerreira@domain.com",
+    "password": "password123",
     "age": 22,
     "skills": [
       "CI/CD",
@@ -944,6 +988,7 @@
     "_id": "03260433-3168-453d-91c7-dabecace64c6",
     "name": "Olivia Costa",
     "email": "OliviaCosta@domain.com",
+    "password": "password123",
     "age": 35,
     "skills": [
       "Redis",
@@ -963,6 +1008,7 @@
     "_id": "9f8958fd-5ab4-4a4b-9c35-ea652f8b8654",
     "name": "Sofia Barbosa",
     "email": "SofiaBarbosa@domain.com",
+    "password": "password123",
     "age": 21,
     "skills": [
       "TypeScript",
@@ -982,6 +1028,7 @@
     "_id": "dac45edd-2b37-4b39-8ccc-68415e96869e",
     "name": "Marina Oliveira",
     "email": "MarinaOliveira@domain.com",
+    "password": "password123",
     "age": 31,
     "skills": [
       "TypeScript",
@@ -1005,6 +1052,7 @@
     "_id": "a073481c-5904-4d97-b8ac-5668ebd88911",
     "name": "Lucas Castro",
     "email": "LucasCastro@domain.com",
+    "password": "password123",
     "age": 50,
     "skills": [
       "GraphQL",
@@ -1026,6 +1074,7 @@
     "_id": "71a10a9e-abe1-4c28-a604-02721f83eef2",
     "name": "Zeca Barbosa",
     "email": "ZecaBarbosa@domain.com",
+    "password": "password123",
     "age": 25,
     "skills": [
       "Microservices",
@@ -1047,6 +1096,7 @@
     "_id": "fddd87b8-c9e9-4b87-abee-63a8b3264f7e",
     "name": "Alex Oliveira",
     "email": "AlexOliveira@domain.com",
+    "password": "password123",
     "age": 42,
     "skills": [
       "Microservices",
