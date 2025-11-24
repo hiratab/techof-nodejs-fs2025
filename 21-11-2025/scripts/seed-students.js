@@ -4,6 +4,7 @@ dotenv.config()
 const mongoose = require('mongoose')
 const fs = require('fs').promises
 const path = require('path')
+const bcrypt = require('bcrypt')
 
 const {
   StudentModel,
@@ -50,16 +51,17 @@ async function runSeed() {
 
     const studentsWithCourses = students.map(({ course, ..._student }) => {
       const [studentCourse] = _courses.filter(c => c.name === course.name)
-
       return {
         ..._student,
-        course: studentCourse._id
+        course: studentCourse._id,
       }
     })
 
     console.log(`Inserting ${studentsWithCourses.length} students`)
-    const _students = await StudentModel.insertMany(studentsWithCourses)
-    console.log(`Inserted ${_students.length} students`)
+    await Promise.all(
+      studentsWithCourses.map(s => new StudentModel(s).save())
+    )
+    console.log(`Inserted ${studentsWithCourses.length} students`)
 
   } catch (error) {
     console.error(error)

@@ -12,6 +12,17 @@ const StudentSchema = new mongoose.Schema({
     required: [true, "email is required"],
     match: [/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/, 'invalid email']
   },
+}, {
+  timestamps: true
+});
+
+StudentSchema.pre('save', async function() {
+  console.log('StudentSchema pre')
+  if (!this.isModified('password')) return ;
+
+  const salt = 10;
+  const hash = await bcrypt.hash(this.password, salt)
+  this.password = hash;
 });
 
 export const Student = mongoose.model('Student', StudentSchema, 'students');
