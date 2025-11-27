@@ -1,0 +1,2 @@
+- Criar o Create, Read, Update, Delete (CRUD) para o Post
+- O Post só pode ser updated e deleted por quem criou o Post
