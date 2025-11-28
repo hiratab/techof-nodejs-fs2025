@@ -1,4 +1,3 @@
----
 ## 1. Adicionar `role` ao Model de Student
 ```js
 role: {
